@@ -85,8 +85,8 @@ def menu_utama():
 ▉┆▉ ▉▔▉
 ▉▂▉ ┊◢▉
 ▉┆▉ ▉◤┊  HAVIZ  ×VIZZ
-▉┆▉ ▉▂▉ RECODE| by {H}HDBM_RECODE_×FIKK_OFFICE{P}
-HACKER EPEP''')
+▉┆▉ ▉▂▉ RECODE| by {H}HDBM_RECODE{P}
+CARI CUAN {H}YAH MALING''')
 	nopo = input(f"\n[{H}1{P}] dump pencarian\n[{H}2{P}] dump komentar\n[{H}3{P}] dump nomor\n[{H}4{P}] dump email\n[{H}5{P}] dump random\n[{H}6{P}] dump file\n[{H}7{P}] cek hasil\n[{H}?{P}] menu : "); print()
 	if nopo == "1": Cari_Nama().apa_nama()
 	if nopo == "2": dump_komen()
@@ -229,7 +229,7 @@ def dump_email():
 		result = f"{format}@gmail.com|{nama}"
 		print(f"\r[{H}!{P}] {result.split('|')[0]} | {len(dump)} ", flush=True, end="")
 		if result not in dump: dump.append(result)
-		if len(dump)>=2000: break
+		if len(dump)>=5100: break
 	print('\n\r                        '); pilih_metode('')
 			
 ### --- [ DUMP RANDOM ] --- ###
@@ -240,14 +240,14 @@ def dump_random():
 		nomor = "{}{}".format(depan, rr(11111,99999))
 		print(f"\r[{H}!{P}] {nomor} | {len(dump)} ", flush=True, end="")
 		if nomor not in dump: dump.append(nomor)
-		if len(dump)>=2007: break
+		if len(dump)>=5007: break
 	print('\n\r                        '); pilih_metode(["123456","12345678","password","123456789","bismillah","nama kamu","sayang","indonesia","bocil epep","free fire","masuk aja"])
 
 ### --- [ DUMP FILE ] --- ###
 def dump_file():
 	print(f"[{H}!{P}] masukan nama file")
 	depan = input(f"[{H}?{P}] input : "); print()
-	try:
+	try:oç
 		for nomor in open(depan, "r").read().splitlines():
 			try: dump.extend(open(depan, "r").read().splitlines()); print(f"\r[{H}!{P}] {nomor.split('|')[0]} | {len(dump)} ", flush=True, end=""); break
 			except: exit("[!] format file salah")
