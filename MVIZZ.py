@@ -75,8 +75,7 @@ def ua_rozh():
 	rr = random.randint; rc = random.choice; andro = rr(8,14)
 	build = "Build/{}.{}.0{}".format(rc(['QP1A', 'SP1A', 'PPR1', 'RP1A', 'OPM1', 'TP1A', 'RKQ1', 'SKQ1']), rr(111111,333333), rr(10,20))
 	chrome = "{}.0.{}.{}".format(rr(100,123), rr(1111,6500), rr(100,400))
-	return f"Mozilla/5.0 (Linux; U; Android 7.0; en-us; Infinix X559C Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Mobile Safari/537.36 PHX/7.9
-
+	return f"Mozilla/5.0 (Linux; Android {andro}; {rc(list_ua)} {build}; wv) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser Chrome/{chrome} Mobile Safari/537.36"
 #while True: input(ua_rozh())
 ### --- [ MENU UTAMA ] --- ###
 def menu_utama():
