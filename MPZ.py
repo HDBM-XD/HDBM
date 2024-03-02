@@ -83,17 +83,21 @@ def menu_utama():
 	os.system('clear' if 'linux' in sys.platform.lower() else 'cls')
 	print(f'''{H}
 
-   HELLO HAVIZZ BIMANSYAH WELLCOME
-             ▉┆▉ ▉▔▉
-             ▉▂▉ ┊◢▉
-             ▉┆▉ ▉◤┊
-             ▉┆▉ ▉▂▉ MVZZ
+    HELLO HAVIZZ BIMANSYAH WELLCOME
+    
+               ▉┆▉ ▉▔▉
+               ▉▂▉ ┊◢▉
+               ▉┆▉ ▉◤┊
+               ▉┆▉ ▉▂▉ MVZZ
 
-              {H}~★NOTEE★~
+               {H}~★NOTEE★~
 
-       {P}JANGAN PERNAH BERHARAP
-  {H}KARNA DARI HARAPAN MU ITULAH YANG
-  AKAN MEMBUAT MU MERASAKAN {P}SAKITT !! ''')
+         {P}JANGAN PERNAH BERHARAP
+    {H}KARNA DARI HARAPAN MU ITULAH YANG
+    AKAN MEMBUAT MU MERASAKAN {P}SAKITT !!
+
+
+    {H}MENDING HACK YUK PILIH METODE''')
 	nopo = input(f"\n[{H}1{P}] dump pencarian\n[{H}2{P}] dump komentar\n[{H}3{P}] dump nomor\n[{H}4{P}] dump email\n[{H}5{P}] dump random\n[{H}6{P}] dump file\n[{H}7{P}] cek hasil\n[{H}?{P}] menu : "); print()
 	if nopo == "1": Cari_Nama().apa_nama()
 	if nopo == "2": dump_komen()
