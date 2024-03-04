@@ -32,7 +32,7 @@ TERUSLAH MENCOBA
     DANN 
 JANGAN PERNAH LALAH UNTUK MENCOBA ───────────────────────────''')
 	
-def YUK_MALING_MASUKIN_COOKIE_DISINI():
+def Cek_Cookies_Dulu():
 	try:
 		token = open('.token.txt','r').read(); cok = open('.cok.txt','r').read(); toke.append(token)
 		try:
