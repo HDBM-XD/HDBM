@@ -23,14 +23,14 @@ Wellcome
 
    ◣┆┆◢ ◣┆┆◢ ★ ▉▔▉ ▉▔▉
    ▉◣◢▉ ▉┆┆▉ ▉ ┊◢▉ ┊◢▉
-{M}▉◥◤▉ ◥◣◢◤ ▉ ▉◤┊ ▉◤┊
+    {M}▉◥◤▉ ◥◣◢◤ ▉ ▉◤┊ ▉◤┊
    ▉┆┆▉ ┆◥◤┆ ▉ ▉▂▉ ▉▂▉─MVIZZ_RECODE
 
            {M}~★NOTE★~
 
 
 
-#TETAPLAH MENJADI ORANG BAIKQ MESKI
+{H}#TETAPLAH MENJADI ORANG BAIKQ MESKI
  TIDAK DI PERLAKUKAN DENGAN BAIKQ─:
  
  #TETAPLAH SEMANGAT WALAU TIDADA SATUPUN
