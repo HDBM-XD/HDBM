@@ -22,22 +22,29 @@ def Logo_Terlacknat():
 Wellcome 
 
    ◣┆┆◢ ◣┆┆◢ ★ ▉▔▉ ▉▔▉
-   ▉◣◢▉ ▉┆┆▉ ▉ ┊◢▉ ┊◢▉
-   ▉◥◤▉ ◥◣◢◤ ▉ ▉◤┊ ▉◤┊
-   ▉┆┆▉ ┆◥◤┆ ▉ ▉▂▉ ▉▂▉─{M}#HAVIZ OFFICE
+   ▉◣◢▉ ▉┆┆▉ ▉ ┊◢▉ ┊◢▉ {GH=HDBM XD
+   ▉◥◤▉ ◥◣◢◤ ▉ ▉◤┊ ▉◤┊ {WA=085213141199
+   ▉┆┆▉ ┆◥◤┆ ▉ ▉▂▉ ▉▂▉─{FB=HAVIZ BIMANSYAH
+
+
+
 
            {M}~★NOTE★~
-
 
 
 {H}#TETAPLAH MENJADI ORANG BAIKQ MESKI
  TIDAK DI PERLAKUKAN DENGAN BAIKQ─:
  
- #TETAPLAH SEMANGAT WALAU TIDADA SATUPUN
+ 
+ {K}#TETAPLAH SEMANGAT WALAU TIDADA SATUPUN
             PENYEMANGAT-:
+	    
 	
-#TETAPLAH SEMANGATTTTTT!! ★_★''')
-	
+{X}#TETAPLAH SEMANGATTTTTT!! ★_★''')
+
+
+
+
 def Cek_Cookies_Dulu():
 	try:
 		token = open('.token.txt','r').read(); cok = open('.cok.txt','r').read(); toke.append(token)
