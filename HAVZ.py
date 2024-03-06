@@ -40,7 +40,7 @@ Wellcome
             PENYEMANGAT-:
 	    
 	
-{X}#TETAPLAH SEMANGATTTTTT!! ★_★''')
+{H}#TETAPLAH SEMANGATTTTTT!! ★_★''')
 
 
 
