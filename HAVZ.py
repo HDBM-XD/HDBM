@@ -18,19 +18,25 @@ def DestinyLine():
 	fast_write(f'{X}────────────────────────────') # fast_write(f'{X}─' *28)
 	
 def Logo_Terlacknat():
-	os.system('clear' if 'linux' in sys.platform.lower() else 'cls'); fast_write(f'''{M} 
+	os.system('clear' if 'linux' in sys.platform.lower() else 'cls'); fast_write(f'''{H} 
 Wellcome 
 
-◣┆┆◢ ◣┆┆◢ ★ ▉▔▉ ▉▔▉
-▉◣◢▉ ▉┆┆▉ ▉ ┊◢▉ ┊◢▉
-▉◥◤▉ ◥◣◢◤ ▉ ▉◤┊ ▉◤┊
-▉┆┆▉ ┆◥◤┆ ▉ ▉▂▉ ▉▂▉─
+   ◣┆┆◢ ◣┆┆◢ ★ ▉▔▉ ▉▔▉
+   ▉◣◢▉ ▉┆┆▉ ▉ ┊◢▉ ┊◢▉
+{P}▉◥◤▉ ◥◣◢◤ ▉ ▉◤┊ ▉◤┊
+   ▉┆┆▉ ┆◥◤┆ ▉ ▉▂▉ ▉▂▉─MVIZZ_RECODE
 
-{H}~★NOTE★~
+           {M}~★NOTE★~
 
-TERUSLAH MENCOBA
-    DANN 
-JANGAN PERNAH LALAH UNTUK MENCOBA ───────────────────────────''')
+
+
+#TETAPLAH MENJADI ORANG BAIKQ MESKI
+ TIDAK DI PERLAKUKAN DENGAN BAIKQ─:
+ 
+ #TETAPLAH SEMANGAT WALAU TIDADA SATUPUN
+            PENYEMANGAT-:
+	
+#TETAPLAH SEMANGATTTTTT!! ★_★''')
 	
 def Cek_Cookies_Dulu():
 	try:
