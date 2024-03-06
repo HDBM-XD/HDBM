@@ -38,10 +38,9 @@ Wellcome
  
  {K}#TETAPLAH SEMANGAT WALAU TIDADA SATUPUN
             PENYEMANGAT-:
-	    
-	
-{H}#TETAPLAH SEMANGATTTTTT!! ★_★''')
 
+     
+#TETAPLAH SEMANGATTTTTT!! ★_★''')
 
 
 
