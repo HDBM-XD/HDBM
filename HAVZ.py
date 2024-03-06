@@ -18,7 +18,8 @@ def DestinyLine():
 	fast_write(f'{X}────────────────────────────') # fast_write(f'{X}─' *28)
 	
 def Logo_Terlacknat():
-	os.system('clear' if 'linux' in sys.platform.lower() else 'cls'); fast_write(f'''{H} 
+	os.system('clear' if 'linux' in sys.platform.lower() else 'cls'); fast_write(f'''
+ {H} 
 Wellcome 
 
    ◣┆┆◢ ◣┆┆◢ ★ ▉▔▉ ▉▔▉
@@ -27,15 +28,13 @@ Wellcome
    ▉┆┆▉ ┆◥◤┆ ▉ ▉▂▉ ▉▂▉─{FB=HAVIZ BIMANSYAH
 
 
-
            {M}~★NOTE★~
-
 
 {H}#TETAPLAH MENJADI ORANG BAIKQ MESKI
  TIDAK DI PERLAKUKAN DENGAN BAIKQ─:
  
  {K}#TETAPLAH SEMANGAT WALAU TIDADA SATUPUN
-            PENYEMANGAT- ''')
+            PENYEMANGAT- ───────────''')
 
 def Cek_Cookies_Dulu():
 	try:
