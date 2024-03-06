@@ -28,21 +28,14 @@ Wellcome
 
 
 
-
            {M}~★NOTE★~
 
 
 {H}#TETAPLAH MENJADI ORANG BAIKQ MESKI
  TIDAK DI PERLAKUKAN DENGAN BAIKQ─:
  
- 
  {K}#TETAPLAH SEMANGAT WALAU TIDADA SATUPUN
-            PENYEMANGAT-:
-
-     
-#TETAPLAH SEMANGATTTTTT!! ★_★''')
-
-
+            PENYEMANGAT- ''')
 
 def Cek_Cookies_Dulu():
 	try:
