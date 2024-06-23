@@ -83,6 +83,7 @@ def menu_utama():
 	print(f'''{H}
 
 WELCOME HAVIZZ BIMANSYAHH
+085213141199 ph
 
              ▉┆▉ ▉▔▉
              ▉▂▉ ┊◢▉
@@ -91,8 +92,11 @@ WELCOME HAVIZZ BIMANSYAHH
 
 ★~NOTE~★
 
-{H}TETAP SEMANGAT JANGAN BERHARAP 
-KARNA BERHARAP LAH YANG MEMBUAT MU SAKIT !!
+
+{H}“Berani menghadapi kegagalan adalah kunci sukses.”
+“Sabar adalah kuncinya, segala sesuatu butuh waktu.”
+“Bersyukur atas apa yang sudah dimiliki, itu akan membawa kebahagiaan.”
+“Intinya bukan seberapa besar masalah, tapi seberapa besar keberanian kita menghadapinya.”
 
 {P}HDBM CRACKERR''')
 	nopo = input(f"\n[{H}1{P}] dump pencarian\n[{H}2{P}] dump komentar\n[{H}3{P}] dump nomor\n[{H}4{P}] dump email\n[{H}5{P}] dump random\n[{H}6{P}] dump file\n[{H}7{P}] cek hasil\n[{H}?{P}] menu : "); print()
